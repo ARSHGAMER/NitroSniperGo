@@ -16,7 +16,7 @@
     "delay": true
   },
   "giveaway": {
-    "enable": true,
+    "enable": false,
     "delay": 15,
     "dm": "Hey, I won a giveaway !",
     "dm_delay": 25,
